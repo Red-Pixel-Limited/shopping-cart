@@ -1,0 +1,23 @@
+### IntelliJ
+.idea
+
+### Metals template
+.metals/
+.bloop/
+project/metals.sbt
+
+### Scala
+*.class
+*.log
+
+### SBT template
+dist/*
+target/
+lib_managed/
+src_managed/
+project/boot/
+project/plugins/project/
+.history
+.cache
+.lib/
+.bsp
