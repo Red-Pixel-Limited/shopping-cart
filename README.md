@@ -1,5 +1,7 @@
 # Shopping cart
 
+![Build status](https://github.com/Red-Pixel-Limited/shopping-cart/actions/workflows/scala.yml/badge.svg)
+
 Allows a user to add products to a shopping cart, and then calculate the total price and tax amounts for the items contained in the cart.
 
 ### Technology stack
